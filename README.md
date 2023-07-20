@@ -31,7 +31,7 @@ Provide solutions to business using EDA (Exploratory Data Analysis) approach
 * EDA help us look at data before making any assumptions. It can help identify obvious errors, as well as better understand patterns within the data, detect outliers or anomalous events, find interesting relations among the variables.
 * Data scientists can use exploratory analysis to ensure the results they produce are valid and applicable to any desired business outcomes and goals.
 
-How to do EDA?
+*How to do EDA?*
 
 * In EDA we will follow below steps
 
