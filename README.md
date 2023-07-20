@@ -1,5 +1,5 @@
 # EDA_Project
-Welcome to my Project on EDA
+Welcome to my Project!
 
 **Introduction:**
 
