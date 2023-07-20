@@ -1,7 +1,7 @@
 # EDA_Project
 Welcome to my Project!
 
-Project Overview:
+Please find the project details below
 
 **Introduction:**
 
