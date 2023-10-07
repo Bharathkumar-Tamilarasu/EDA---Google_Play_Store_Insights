@@ -1,4 +1,4 @@
-# EDA_Project
+# EDA using Python
 Welcome to my Project!
 
 Please find the project details below
