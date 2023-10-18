@@ -1,4 +1,4 @@
-# EDA using Python
+# Exploratory Data Analysis using Python
 Welcome to my Project!
 
 Please find the project details below
